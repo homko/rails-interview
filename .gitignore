@@ -1,0 +1,7 @@
+tmp/cache
+tmp/pids
+tmp/restart.txt
+tmp/sockets
+log/development.log
+.idea/
+.byebug_history
